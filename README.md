@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bullocksedwardo  Edwaard 
 - 👀 I’m interested in ... Learning how to code and build some NFt's as well as do some mining
-- 🌱 I’m currently learning ... how to program and basic computer functions program
+- 🌱 I’m currently learning ... how to program and basic computer functions and programing
 - 💞️ I’m looking to collaborate on ... On some mining monero with the p2pool and DEVSECOPPS
 - 📫 How to reach me ... cryptodippdough@gmail.com 
 
